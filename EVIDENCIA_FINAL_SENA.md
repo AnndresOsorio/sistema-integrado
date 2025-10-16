@@ -7,7 +7,7 @@
 
 **Autonova S.A.** es un sistema integral desarrollado en **Java Spring Boot** con **MySQL**, que permite la gestión de sucursales dedicadas a la compra y venta de vehículos, repuestos y servicios postventa.
 
-El sistema integra módulos de usuarios, vehículos, repuestos, garantías, ventas y sucursales, asegurando la trazabilidad completa de la información empresarial.
+El sistema integra módulos de usuarios, vehículos, repuestos, garantías, ventas de vehiculos y venta de repuestos, asegurando la trazabilidad completa de la información empresarial.
 
 ---
 
@@ -102,7 +102,6 @@ Módulo	Prueba	Resultado
 Usuarios	Validar creación y login de usuario	- Exitosa
 Vehículos	Registro y actualización de inventario	- Exitosa
 Ventas	Generación de factura y actualización de stock	- Exitosa
-Garantías	Seguimiento de garantía de vehículo	- Exitosa
 
 5.2 Pruebas de Integración (Postman)
 Endpoint	Método	Descripción	Estado
@@ -164,6 +163,4 @@ Repositorio GitHub: https://github.com/AnndresOsorio/sistema-integrado
 10. Conclusión
 El proyecto Autonova S.A. cumple con los requerimientos establecidos en la evidencia GA8-220501096-AA1-EV02, integrando los módulos principales del sistema, documentando sus pruebas, configuraciones y entornos, y entregando los elementos técnicos necesarios para su despliegue y evaluación.
 
-Fecha de entrega: Octubre 2025
-Versión: 1.0.0
 
