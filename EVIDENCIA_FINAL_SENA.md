@@ -148,19 +148,8 @@ Ejecutables (.jar)	/build/
 Archivos compilados finales	/executables/
 Evidencia final	/EVIDENCIA_FINAL_SENA.md
 
-9. Equipo de Desarrollo
-Aprendices:
 
-Kevin Barreto
-
-Andrés Osorio
-
-Ficha: 2977440
-Programa: Análisis y Desarrollo de Software – SENA
-Evidencia: GA8-220501096-AA1-EV02 — Módulos Integrados
-Repositorio GitHub: https://github.com/AnndresOsorio/sistema-integrado
-
-10. Conclusión
+9. Conclusión
 El proyecto Autonova S.A. cumple con los requerimientos establecidos en la evidencia GA8-220501096-AA1-EV02, integrando los módulos principales del sistema, documentando sus pruebas, configuraciones y entornos, y entregando los elementos técnicos necesarios para su despliegue y evaluación.
 
-
+Repositorio GitHub: https://github.com/AnndresOsorio/sistema-integrado
